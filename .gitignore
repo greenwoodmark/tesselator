@@ -9,3 +9,4 @@ Thumbs.db
 # Python
 __pycache__/
 *.pyc
+tess_venv/
