@@ -61,7 +61,7 @@ function drawTile(ctx, tile, originX, originY, scale, transform = 'none', isBlac
     }
     ctx.closePath();
 
-    const colour = isBlack ? '#000000' : '#ffffff';
+    const colour = isBlack ? '#00008b' : '#dc2626';
     ctx.fillStyle = colour;
     ctx.fill();
     ctx.strokeStyle = colour;
