@@ -2,6 +2,9 @@
 
 An interactive tessellation app inspired by the work of M.C. Escher. Deform a square tile by dragging control points on its edges — the app enforces symmetry constraints so the tile always tessellates perfectly with its neighbours.
 
+<img width="470" height="286" alt="escher_fishes_two" src="https://github.com/user-attachments/assets/cfe62859-df08-42ea-b2f1-9b5947279cbe" />
+
+
 ## How it works
 
 - Start with a square base tile with 10 control points per edge.
@@ -24,5 +27,6 @@ Then open http://localhost:8080 in your browser.
 
 Vanilla JavaScript + HTML Canvas. No dependencies, no build step.
 
+## Agent steering and future enhancements
 
 For more detailed guidance, please refer to the [steering document](tesselation.md).
