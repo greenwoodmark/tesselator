@@ -23,3 +23,6 @@ Then open http://localhost:8080 in your browser.
 ## Tech
 
 Vanilla JavaScript + HTML Canvas. No dependencies, no build step.
+
+
+For more detailed guidance, please refer to the [steering document](tesselation.md).
