@@ -7,6 +7,8 @@ Starting with a base figure of a square, we can click and drag on the outline to
 (C:\Users\markr\Documents\tesselation>c:\Users\markr\Documents\tesselation\tess_venv\Scripts\activate.bat is used to activate the venv I intend to run it in)
 
 ## TODO:
+Host on customised website, purchased through `https://www.spaceship.com/en-GB/domains/gtld/com/`
+
 See Gemini's advice at `https://share.gemini.google/XjCYTjmhRyb8` regarding how to use `MobileNet1 and 1Quick, Draw!` dataset of 340 or so sketch category outlines to recognise Dominik's draft from tesselator app and snap it to the selected sketch category (e.g. cat). The interior can be filled out with say a Pix2Pix model trained on some Escher tesselations.
 
 ```
